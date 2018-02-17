@@ -1,0 +1,10 @@
+li.nav_list-item {
+	display:inline-block;
+	padding:0 40px;
+	letter-spacing:.5px;
+	font-size:1.8rem;
+	transition:color .25s ease
+}
+li.nav_list-item:hover {
+	color:#2fe0c5
+}
