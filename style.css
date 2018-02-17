@@ -1,7 +1,11 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
 li.nav_list-item {
 	display:inline-block;
 	padding:0 40px;
 	letter-spacing:.5px;
+	
 	font-size:1.8rem;
 	transition:color .25s ease
 }
