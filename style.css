@@ -1,3 +1,26 @@
+div.nav_gl {
+	display:-ms-flexbox;
+	display:flex;
+	-ms-flex-flow:row wrap;
+	flex-flow:row wrap;
+	width:90%;
+	max-width:1400px;
+	margin-right:auto;
+	margin-left:auto
+	-ms-flex-align:center;
+	align-items:center
+}
+div.nav_logo-div {
+	display:inline
+}
+img.nav_logo {
+	width:200px;
+	height:auto;
+	-ms-flex:1 1 0px;
+	flex:1 1 0;
+	-ms-flex-item-align:start;
+	align-self:flex-start
+}
 body {
 	font-family: 'Roboto', sans-serif;
 	margin-left: 15rem;
