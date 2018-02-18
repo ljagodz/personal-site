@@ -7,9 +7,19 @@ li.nav_list-item {
 	display:inline-block;
 	padding:0 40px;
 	letter-spacing:.5px;
-	font-size:1.8rem;
+	font-size:1rem;
 	transition:color .25s ease
 }
 li.nav_list-item:hover {
 	color:#2fe0c5
+}
+
+p.about {
+	padding 0 40px;
+	letter-spacing:.5px;
+	font-size: 1.5rem
+}
+
+h3.about {
+	font-size: 2rem
 }

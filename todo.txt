@@ -1,3 +1,1 @@
--center body of website so as to have reasonable margins on the sides
--increase font size of <h3> element in about section
 -Create logo/image of some sort to place at top left.
